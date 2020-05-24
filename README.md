@@ -1,2 +1,2 @@
-# winfredblog
+test
 for blog
